@@ -1,0 +1,8 @@
+{
+  "@@locale": "km",
+  "appTitle": "flutter_todo",
+  "homeLabel": "ផ្ទះ",
+  "settingLabel": "ការកំណត់",
+  "languageLabel": "ភាសា",
+  "themeLabel": "ប្រធានបទ"
+}

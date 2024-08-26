@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "appTitle": "flutter_todo",
+  "homeLabel": "Home",
+  "settingLabel": "Setting",
+  "languageLabel": "Language",
+  "themeLabel": "Theme"
+}
